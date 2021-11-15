@@ -1,2 +1,2 @@
 "# kobobulkimage" 
-![image description](image/catpture1.png)
+![image description](images/catpture1.png)
