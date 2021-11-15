@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KoboBulkDownloader/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.4.2",
+          "AWSSDK.S3": "3.7.4.4"
+        },
+        "runtime": {
+          "KoboBulkDownloader.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.4.2": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.4.2"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.4.4": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.4.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.4.4"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KoboBulkDownloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vlZ8SvOR+UiDdj361p4TvZtncap+Ez0+tarOBWTpk9tr9Jrn+EnxdCUiUzZn5NKbfNBf4J5f+dGFL6LAKtJF8Q==",
+      "path": "awssdk.core/3.7.4.2",
+      "hashPath": "awssdk.core.3.7.4.2.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mv5QS13rpbddHveydnGuIXi8BkQGFphCy6T0EDNQHQs2TWyFxN8Wyqx7vI3Z4nYWViNaDcnd35lp/arXwo8JTQ==",
+      "path": "awssdk.s3/3.7.4.4",
+      "hashPath": "awssdk.s3.3.7.4.4.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0T8Mktv/uDacAntgKBu75w1vJ8RE1i9BOUy8zi13MKePLoqwDkoqHxQx58wlheOYChaX7tyUWFo04g1XxXWzJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zach\\source\\repos\\KoboBulkDownloader\\KoboBulkDownloader\\KoboBulkDownloader.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\awssdk.core\\3.7.4.2\\awssdk.core.3.7.4.2.nupkg.sha512",
+    "C:\\Users\\Zach\\.nuget\\packages\\awssdk.s3\\3.7.4.4\\awssdk.s3.3.7.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
