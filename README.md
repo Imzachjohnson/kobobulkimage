@@ -9,7 +9,7 @@ Current Features:
 * Download images locally or automatically upload to a file hosting platform (currently supports Amazon S3 buckets)
 * Download images in multiple sizes
 * Define number of concurrent downloads for fast processing
-
+<br><br>
 
 ![image description](https://i.imgur.com/ERcgtsl.png)<br><br>
 ![image description](https://i.imgur.com/mn36lB9.png)
