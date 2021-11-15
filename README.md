@@ -11,6 +11,5 @@ Current Features:
 * Define number of concurrent downloads for fast processing
 
 
-"# kobobulkimage" 
-![image description](https://i.imgur.com/ERcgtsl.png)<br>
+![image description](https://i.imgur.com/ERcgtsl.png)<br><br>
 ![image description](https://i.imgur.com/mn36lB9.png)
